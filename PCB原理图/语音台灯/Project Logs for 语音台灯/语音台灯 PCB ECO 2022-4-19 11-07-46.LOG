@@ -1,0 +1,112 @@
+Added Component: Designator=J1(HDR-1x2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(HDR-1X6_M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(HDR-1X5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(LED 1W/3W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(LED 1W/3W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED3(LED 1W/3W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(SW_PB_6X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(SW_PB_6X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(SW_PB_6X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S4(SW_PB_6X6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S5(SWITCH_DIP_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(STM32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SNR9815)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ASR1 Pin=U1-11
+Added Pin To Net: NetName=ASR1 Pin=U2-14
+Added Net: Name=ASR1
+Added Pin To Net: NetName=ASR2 Pin=U1-12
+Added Pin To Net: NetName=ASR2 Pin=U2-13
+Added Net: Name=ASR2
+Added Pin To Net: NetName=ASR3 Pin=U1-13
+Added Pin To Net: NetName=ASR3 Pin=U2-12
+Added Net: Name=ASR3
+Added Pin To Net: NetName=ASR4 Pin=U1-14
+Added Pin To Net: NetName=ASR4 Pin=U2-11
+Added Net: Name=ASR4
+Added Pin To Net: NetName=ASR5 Pin=U1-15
+Added Pin To Net: NetName=ASR5 Pin=U2-10
+Added Net: Name=ASR5
+Added Pin To Net: NetName=ASR6 Pin=U1-16
+Added Pin To Net: NetName=ASR6 Pin=U2-9
+Added Net: Name=ASR6
+Added Pin To Net: NetName=ASR7 Pin=U1-17
+Added Pin To Net: NetName=ASR7 Pin=U2-8
+Added Net: Name=ASR7
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=KEY1 Pin=S1-1
+Added Pin To Net: NetName=KEY1 Pin=S1-1
+Added Pin To Net: NetName=KEY1 Pin=U1-1
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=S2-1
+Added Pin To Net: NetName=KEY2 Pin=S2-1
+Added Pin To Net: NetName=KEY2 Pin=U1-2
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=S3-1
+Added Pin To Net: NetName=KEY3 Pin=S3-1
+Added Pin To Net: NetName=KEY3 Pin=U1-3
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=S4-1
+Added Pin To Net: NetName=KEY4 Pin=S4-1
+Added Pin To Net: NetName=KEY4 Pin=U1-4
+Added Net: Name=KEY4
+Added Pin To Net: NetName=LED Pin=LED1-2
+Added Pin To Net: NetName=LED Pin=LED2-2
+Added Pin To Net: NetName=LED Pin=LED3-2
+Added Pin To Net: NetName=LED Pin=U1-28
+Added Net: Name=LED
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-16
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-15
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=RX Pin=J2-4
+Added Pin To Net: NetName=RX Pin=U1-7
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J2-3
+Added Pin To Net: NetName=TX Pin=U1-6
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC3 Pin=J2-6
+Added Pin To Net: NetName=VCC3 Pin=U1-20
+Added Pin To Net: NetName=VCC3 Pin=U1-23
+Added Net: Name=VCC3
+Added Pin To Net: NetName=VCC5 Pin=S5-2
+Added Pin To Net: NetName=VCC5 Pin=U1-18
+Added Pin To Net: NetName=VCC5 Pin=U2-7
+Added Net: Name=VCC5
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=LED2-1
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=J3-1
+Added Pin To Net: NetName=VIN Pin=S5-1
+Added Net: Name=VIN
+Added Class: Name=”Ô“ÙÃ®µ∆
+Added Room: Name=”Ô“ÙÃ®µ∆
